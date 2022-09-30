@@ -4,10 +4,10 @@ A google chrome extension where connections request is automatcally send by engi
 1- Download a zip-file and extract it.\
 2- Enable developer mode in google chrome extension setting.\
 3- Click on load unpacked and add project file.\
-4- Once loaded, click on extension to see magic!\
+4- Once loaded, click on extension to see magic.\
 
 
-Future Work: Will add a feature to accept, deny and withdraw feature.\
+Future Work: Will add a feature to accept, deny and withdraw feature.
 
 
 https://user-images.githubusercontent.com/76910737/193367021-c30ecc27-8243-446e-8eb0-61fe20f801e7.mp4
