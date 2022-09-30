@@ -1,7 +1,7 @@
 # ConnectAutomatically-
 A google chrome extension where connections request is automatcally send by engine.
 
-1- Download a zip-file and extract it.
+1- Download a zip-file and extract it.\
 2- Enable developer mode in google chrome extension setting.
 3- Click on load unpacked and add project file.
 4- Once loaded, click on extension to see magic!
