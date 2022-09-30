@@ -8,5 +8,7 @@ A google chrome extension where connections request is automatcally send by engi
 
 
 
-https://user-images.githubusercontent.com/76910737/193366957-29e5e43d-a43d-476d-8730-c0fe24c37e56.mp4
+
+
+https://user-images.githubusercontent.com/76910737/193367021-c30ecc27-8243-446e-8eb0-61fe20f801e7.mp4
 
